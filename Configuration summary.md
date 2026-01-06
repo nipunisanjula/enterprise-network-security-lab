@@ -1,4 +1,4 @@
-: ![Image Alt]()
+: ![Image Alt](https://github.com/nipunisanjula/enterprise-network-security-lab/blob/4f49fbfbad45cf0306ee903c09145613388bc759/Image/1.1.png)
 # **Network device specifications and virtual images used in EVE-NG lab**
 
 |     |     |     |     |     |
