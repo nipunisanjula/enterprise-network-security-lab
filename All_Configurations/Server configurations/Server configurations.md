@@ -1,4 +1,4 @@
-DHCP configuration on Router_Branch
+# **DHCP configuration on Router_Branch**
 
 Router_Branch(config)#ip dhcp pool OFFICE
 
@@ -8,7 +8,7 @@ Router_Branch(dhcp-config)#default-router 192.168.40.1
 
 Router_Branch(dhcp-config)#dns-server 8.8.8.8
 
-DHCP Snooping configuration on Branch_Switch
+# **DHCP Snooping configuration on Branch_Switch**
 
 Branch_Switch(config)#ip dhcp snooping
 
@@ -16,7 +16,7 @@ Branch_Switch(config)#int gi0/0
 
 Branch_Switch(config-if)#ip dhcp snooping trust
 
-Proxy server
+# **Proxy server**
 
 sudo apt install squid
 
@@ -30,7 +30,7 @@ sudo nano /etc/squid/squid.conf
 
 tail -f /var/log/squid/access.log
 
-Cacti server
+# **Cacti server**
 
 sudo apt install apache2 mysql-server php libapache2-mod-php php-mysql
 
@@ -54,7 +54,7 @@ sudo apt install snmp snmpd
 
 sudo systemctl restart snmpd.service
 
-FTP server
+# **FTP server**
 
 sudo apt install vsftpd
 
@@ -76,7 +76,7 @@ sudo nano /etc/vsftpd.conf
 
 sudo cat /var/log/vsftpd.log
 
-AAA server
+# **AAA server**
 
 sudo apt install freeradius freeradius-utils
 
