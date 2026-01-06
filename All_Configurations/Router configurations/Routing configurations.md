@@ -1,4 +1,4 @@
-Dynamic routing configurations on ISP_NAT
+# **Dynamic routing configurations on ISP_NAT**
 
 ISP_NAT(config)#int gi 0/2
 
@@ -30,7 +30,7 @@ ISP_1(config)#ip route 0.0.0.0 0.0.0.0 192.168.100.1
 
 ISP_1(config)#ip name-server 8.8.8.8
 
-Static and dynamic routing configurations on Router_Office
+# **Static and dynamic routing configurations on Router_Office**
 
 Office(config)#int gi 0/2
 
@@ -54,7 +54,7 @@ Office(config)#ip route 0.0.0.0 0.0.0.0 192.168.200.1 20
 
 Office (config)#ip name-server 8.8.8.8
 
-Static and dynamic routing configurations on ISP_2
+# **Static and dynamic routing configurations on ISP_2**
 
 ISP_2 (config)#int range gi 0/0-2
 
@@ -76,7 +76,7 @@ ISP_2(config)#ip route 0.0.0.0 0.0.0.0 192.168.200.1
 
 ISP_2(config)#ip name-server 8.8.8.8
 
-Static and dynamic routing configurations on ROUTER_BRANCH
+# **Static and dynamic routing configurations on ROUTER_BRANCH**
 
 Router_Branch (config)#int gi 0/1
 
