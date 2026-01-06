@@ -1,4 +1,4 @@
-IPsec Site to Site VPN configurations on Router_Office
+# **IPsec Site to Site VPN configurations on Router_Office**
 
 Office(config)#int tunnel 10
 
@@ -44,7 +44,7 @@ Office(config)#int tunnel 10
 
 Office(config-if)#tunnel protection ipsec profile OB
 
-IPsec Site to Site VPN configurations on Router_Branch
+# **IPsec Site to Site VPN configurations on Router_Branch**
 
 Router_Branch(config)#int tunnel 10
 
