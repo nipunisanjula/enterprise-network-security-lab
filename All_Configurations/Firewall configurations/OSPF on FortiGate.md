@@ -1,4 +1,4 @@
-Dynamic Routing with OSPF on FortiGate
+# **Dynamic Routing with OSPF on FortiGate**
 
 Office_Firewall # config router ospf
 
