@@ -1,4 +1,4 @@
-Network device specifications and virtual images used in EVE-NG lab
+# **Network device specifications and virtual images used in EVE-NG lab**
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -10,7 +10,7 @@ Network device specifications and virtual images used in EVE-NG lab
 | Virtual PC | vPCS | vPCs | \-  | \-  |
 | PC  | Windows 10 | Windows | 2 GB | 1 core |
 
-Configuration Details of Switches
+# **Configuration Details of Switches**
 
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
@@ -60,7 +60,7 @@ Configuration Details of Switches
 | Gi0/2 |
 | Gi0/3 |
 
-Configuration Details of routers
+# **Configuration Details of routers**
 
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ Configuration Details of routers
 | Gi0/1 | 40.1.1.65 /26 | 255.255.255.192 | 0.0.0.63 |
 | Gi0/2 | 192.168.40.1/24 | 255.255.255.0 | 0.0.0.255 |
 
-Configuration Details of Office \_Firewall
+# **Configuration Details of Office \_Firewall**
 
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
@@ -94,7 +94,7 @@ Configuration Details of Office \_Firewall
 | port2 | 192.168.1.2/24 | wan-ping,https |     | 192.168.1.1/24 |
 | port3 | 192.168.2.1/24 | dmz-ping,http,https | vlan50 | 192.168.50.1/24 |
 
-Configuration Details of end devices
+# **Configuration Details of end devices**
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
