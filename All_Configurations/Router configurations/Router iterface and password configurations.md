@@ -1,4 +1,4 @@
-Interface configurations and router passwords on ISP_NAT
+# **Interface configurations and router passwords on ISP_NAT**
 
 Internet(config)#hostname ISP_NAT
 
@@ -72,7 +72,7 @@ ISP_NAT(config-if)#exit
 
 ISP_NAT#sh ip int br
 
-Interface configurations and router passwords on ISP_1
+# **Interface configurations and router passwords on ISP_1**
 
 Router(config)#hostname ISP_1
 
@@ -138,7 +138,7 @@ ISP_1(config-if)#description ISP_NAT
 
 ISP_1(config-if)#exit
 
-Interface configurations and router passwords on ISP_2
+# **Interface configurations and router passwords on ISP_2**
 
 Router(config)#hostname ISP_2
 
@@ -204,7 +204,7 @@ ISP_2(config-if)#sdescription ISP_NAT
 
 ISP_2(config-if)#exit
 
-Interface configurations and router passwords on Router_Office
+# **Interface configurations and router passwords on Router_Office**
 
 Router(config)#hostname Office
 
@@ -270,7 +270,7 @@ Office(config-if)#no shut
 
 Office(config-if)#exit
 
-Interface configurations and router passwords on Router_Branch
+# **Interface configurations and router passwords on Router_Branch**
 
 Router(config)#hostname Router_Branch
 
