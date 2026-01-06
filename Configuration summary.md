@@ -1,3 +1,4 @@
+: ![Image Alt]()
 # **Network device specifications and virtual images used in EVE-NG lab**
 
 |     |     |     |     |     |
