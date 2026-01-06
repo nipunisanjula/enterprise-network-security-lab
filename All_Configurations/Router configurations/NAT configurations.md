@@ -1,4 +1,4 @@
-Network Address Translation (NAT) configurations on ISP_NAT
+# **Network Address Translation (NAT) configurations on ISP_NAT**
 
 ISP_NAT(config)# ip nat pool WAN 192.168.174.139 192.168.174.140 prefix-length 24
 
