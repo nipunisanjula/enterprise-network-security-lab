@@ -1,4 +1,4 @@
-# **Static Routing(floating)on FortiGate**
+# **Static routing(floating)on FortiGate**
 
 Office_Firewall # config router static
 
