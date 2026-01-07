@@ -1,4 +1,4 @@
-# **IPsec Site to Site VPN configurations on Router_Office**
+# **IPsec site to site VPN configurations on Router_Office**
 
 Office(config)#int tunnel 10
 
