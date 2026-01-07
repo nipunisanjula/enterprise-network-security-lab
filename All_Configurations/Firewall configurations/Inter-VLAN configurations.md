@@ -1,4 +1,4 @@
-# **Firewall Inter-VLAN Configuration**
+# **Firewall Inter-VLAN configuration**
 
 Office_Firewall # config system interface
 
