@@ -1,4 +1,4 @@
-# **Spanning Tree PortFast Configurations on DMZ_Switch**
+# **Spanning Tree PortFast configurations on DMZ_Switch**
 
 DMZ_Switch(config)#interface range gigabitEthernet 0/1 - 2
 
