@@ -11,7 +11,7 @@
 | Virtual PC | vPCS | vPCs | \-  | \-  |
 | PC  | Windows 10 | Windows | 2 GB | 1 core |
 
-# **Configuration details of Switches**
+# **Configuration details of switches**
 
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
@@ -82,7 +82,7 @@
 | Gi0/1 | 40.1.1.65 /26 | 255.255.255.192 | 0.0.0.63 |
 | Gi0/2 | 192.168.40.1/24 | 255.255.255.0 | 0.0.0.255 |
 
-# **Configuration details of Office \_Firewall**
+# **Configuration details of Office_Firewall**
 
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
