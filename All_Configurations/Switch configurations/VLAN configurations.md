@@ -1,4 +1,4 @@
-# **VLAN Configurations on Switch_1**
+# **VLAN configurations on Switch_1**
 
 Switch_1(config)#vlan 10
 
@@ -52,7 +52,7 @@ Switch_1(config-if-range)#exit
 
 Switch_1(config)#do show interfaces trunk
 
-# **VLAN Configurations on Switch_2**
+# **VLAN configurations on Switch_2**
 
 Switch_2(config)#vlan 10
 
@@ -118,7 +118,7 @@ Switch_2(config-if-range)#switchport mode trunk
 
 Switch_2(config-if-range)#exit
 
-# **VLAN Configurations on L3_Switch_1**
+# **VLAN configurations on L3_Switch_1**
 
 L3_Switch_1(config)#vlan 80
 
@@ -240,7 +240,7 @@ L3_Switch_2(config-if-range)#switchport mode trunk
 
 L3_Switch_2(config-if-range)#exit
 
-# **VLAN Configurations on DMZ_Switch**
+# **VLAN configurations on DMZ_Switch**
 
 DMZ_Switch(config)#vlan 50
 
